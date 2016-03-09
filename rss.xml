@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ultimate Visuals]]></title>
         <description><![CDATA[Ultimate Visuals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ultimate-visuals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 12:45:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 12:45:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ultimate-visuals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Video Production]]></title>
             <description><![CDATA[<article><h1>Video Production</h1><p>We can help you with: TV Commercials, Corporate Productions, Promotional Material, Courses and Training Packages, International TV Series, Online Video Content, Event Capture and Interaction</p></article>]]></description>
-            <link>undefinedvideo-production/index.html</link>
+            <link>https://thegrid.ai/ultimate-visuals/video-production/index.html</link>
             <guid isPermaLink="false">90579116-7501-44f8-98c9-77687039c84d</guid>
             <pubDate>Wed, 09 Mar 2016 12:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live Streaming]]></title>
+            <description><![CDATA[<article><h1>Live Streaming</h1><p>With Live Streaming packages starting at $1995, we can provide everything from simple, single camera streaming solutions, right up to top-level live event productions. Let us tailor a solution to meet your event and broadcast requirements.</p></article>]]></description>
+            <link>https://thegrid.ai/ultimate-visuals/live-streaming/index.html</link>
+            <guid isPermaLink="false">3f8a503b-89d3-4d0a-84ba-4549ed6e2dc5</guid>
+            <pubDate>Wed, 09 Mar 2016 12:45:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
